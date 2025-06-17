@@ -10,7 +10,7 @@ Analyze customer support ticket data to uncover key performance metrics, identif
 - Tableau  (for dashboard)
 - Excel (data cleanup & CSV export
 
-https://github.com/o-zab/FUTURE_DS_02/blob/95f78bba223af681e4c34bbc360a0d386e1ba250/outputs/Customer%20Support%20%26Ticket%20Resolution%20Dashboard.png
+![alt_text](https://github.com/o-zab/FUTURE_DS_02/blob/95f78bba223af681e4c34bbc360a0d386e1ba250/outputs/Customer%20Support%20%26Ticket%20Resolution%20Dashboard.png)
 
 
 ## Key Metrics Analyzed
